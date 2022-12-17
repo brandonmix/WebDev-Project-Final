@@ -1,0 +1,37 @@
+/**
+CSS Document
+*/
+
+h1 {
+  position: relative;
+  left: 400px;
+  font-size: 2.0em; /* 30px/16=2.0em */
+}
+
+.nbapic {
+  height: 50%;
+  width: 50%;
+  background-color: powderblue;
+  position: relative;
+  left: 325px; 
+}
+
+h2 {
+  font-size: 1.25em; /* 30px/16=1.25em */
+  align-items: center;
+}
+
+body {
+  background-color: rgb(133, 178, 193);
+  font-family: 'Kenia', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nbavid {
+  position: relative;
+  left: 325px; 
+}
+
+
+
